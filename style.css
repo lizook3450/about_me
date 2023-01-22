@@ -1,0 +1,44 @@
+html{
+    text-align: center;
+}
+
+h1{
+    background-image: url("https://bipbap.ru/wp-content/uploads/2021/09/1531640762_25-1.jpg");
+    background-size: cover;
+}
+
+ul {
+    display: inline-block;
+    color: rgb(141, 47, 47);
+    border: 1px dashed brown;
+}
+
+li{
+    text-align: left;
+}
+
+.pink{
+    background-color: pink;
+}
+
+section{
+    background-color: rgb(187, 184, 184);
+    border: 2px solid black;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+span{
+    text-transform: uppercase;
+}
+
+section.size p{
+    font-size: 20px;
+}
+
+section.pink p{
+    font-style: italic;
+    font-weight: bolder;
+}
